@@ -1,0 +1,27 @@
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header {
+  font-size: 20px;
+}
+
+.close-btn {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.song-info {
+  font-size: 15px;
+  line-height: 15px;
+}
+
+.artist {
+  margin-top: 10px;
+}
+
+.close-btn1 {
+  border-radius: 5px;
+  background-color: white;
+}

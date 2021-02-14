@@ -1,0 +1,58 @@
+.btn.dropdown-toggle {
+  width: 150px;
+  text-align: left;
+}
+
+span.caret {
+  position: absolute;
+  left: 90%;
+  top: 45%;
+}
+
+label {
+  padding-top: 5px;
+}
+
+.form-label {
+  padding-left: 0px !important;
+}
+
+img {
+  width: 140px;
+  height: 140px;
+}
+
+.btn-success {
+  background-color: #3b7d4a !important;
+}
+
+.btn-success:hover {
+  background-color: #4daf64 !important;
+}
+
+img.track {
+  border: 1px solid #8a8a8a;
+}
+
+.add-to-playlist {
+  margin-top: 20px;
+  background: #1db954;
+  font-size: 18px;
+  width: 50%;
+  color: white;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.logout-btn {
+  position: fixed;
+  right: 10px;
+  top: 5px;
+  border-radius: 10px;
+  width: 100px;
+  height: 50px;
+}
+
+.logout-btn:hover {
+  background-color: #dcdcdc;
+}

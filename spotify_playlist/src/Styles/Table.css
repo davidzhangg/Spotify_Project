@@ -1,0 +1,21 @@
+.actions {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.delete-but {
+  color: white;
+  background-color: red;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+
+.view-but {
+  color: white;
+  background-color: #1589ff;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
